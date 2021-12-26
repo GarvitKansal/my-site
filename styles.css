@@ -1,0 +1,89 @@
+div {
+    background-color: #e4f9f5;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family:'Ubuntu',sans-serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Audiowide',cursive;
+    font-size: 5.625rem;
+    line-height: double;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h1,h2 {
+    color: #66BFBF;
+}
+
+h3,a {
+    color: #11999E;
+}
+
+.top-container {
+    position:relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 30px;
+}
+  
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web,.data {
+    width: 25%;
+    margin-right:30px;
+}
+
+.web {
+    float: left;
+}
+
+.data {
+    float: right;
+}
+
+.footer {
+    color: #EAF6F6;
+}
+
+.btn {
+    background-color: #11999E;
+    color:white;
+    text-decoration: none;
+    border-radius: 10%;
+}
